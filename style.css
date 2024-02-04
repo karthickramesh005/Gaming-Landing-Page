@@ -1,0 +1,83 @@
+
+
+.nav-item a{
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    text-transform:uppercase;
+    margin-right: 15px;
+    transition: all 0.4s;
+    font-family: 'Play', sans-serif;
+}
+.nav-item a:hover{
+    color: rgb(158, 38, 250);
+}
+.navbar-brand{
+    height: 50px;
+    width: 100px;
+    color: rgb(76, 231, 255);
+    font-size: 30px;
+    font-family: 'Play', sans-serif;
+}
+.navbar-brand:hover{
+    color:rgb(171, 71, 248) ;
+}
+.navbar{
+    background-image: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+}
+.btn1{
+    height: 45px;;
+    outline: none;
+    border: none;
+    background-color:rgb(20, 219, 20) ;
+    color: white;
+    border-radius: 0px 20px 20px 0px;
+    transition: all 0.4s;
+}
+.btn1:hover{
+    background-color: rgb(13 ,172,13);
+}
+
+.navbar-toggler{
+    font-size: 23px;
+    color: black;
+}
+.navbar-toggler:focus{
+    outline: none;
+    box-shadow: none;
+}
+.main{
+    background: url("https://img.freepik.com/free-photo/cool-geometric-triangular-figure-neon-laser-light-great-backgrounds-wallpapers_181624-9840.jpg?w=826&t=st=1707025584~exp=1707026184~hmac=ef855e0b021297f3f47afea9d79f00e83c5c716db357c634327159cc78fdc046")no-repeat;
+    background-size:cover;
+
+    font-family: 'Play', sans-serif;
+}
+.top{
+    font-family: 'Play', sans-serif;
+    font-size: 25px;
+    color: azure;
+}
+.main h1{
+    font-size: 50px;
+    font-family: 'Play', sans-serif;
+    color: azure;
+}
+
+.mbtn1{
+    
+    outline: none;
+    border: none;
+    color: white;
+    font-family: 'Play', sans-serif;
+    background: rgb(80, 245, 220);
+    border-radius: 70px;
+    transition: all 0.4s;
+}
+.mbtn1:hover{
+    background-color: rgb(72, 0, 255);
+}
+
+
+
+
+/*===============*/
